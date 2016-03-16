@@ -1,0 +1,13 @@
+6e15420d4cdfe258cf49d9dc9d62d4b5 *DESCRIPTION
+53235a8542f9c6d3360f11e65ca4a7f4 *NAMESPACE
+864e621a58c344bcca9703cf771c9084 *R/BorderEdgeCorrection.R
+3380c9f9f4cfca7557974469a201b821 *R/ReflectionEdgeCorrection.R
+ca947eca4f87bfa2cbbf0b81913a0ab2 *R/TranslationEdgeCorrection.R
+d78cf870b5bfbf6b731ffaef956dd039 *data/x.tab
+1c6e6af123f7ae7b6e34a0ac59da6a9f *data/y.tab
+a155aa06fcebb18e63e68e345b481c60 *man/bec.Rd
+9c9c95bd5493748b065c683bfe35bf0c *man/edgeCorr-package.Rd
+0d8ab7766ca0b77ed45f18e1d6bd513d *man/reflection.Rd
+bdf5c4db566073c57da96ed3444e7bfc *man/translation.Rd
+ec655a1433acb4474b43d12abcabca26 *man/x.Rd
+cf9c5b1238843921f3d427b4e6a3dcf3 *man/y.Rd
